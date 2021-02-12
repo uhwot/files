@@ -1,1 +1,1 @@
-<svg><script href="data:text/javascript,window.onclick = function(){window.onclick = null;var audio = new Audio('https://uhwot.github.io/files/FUCKBEES_FULL.mp3');audio.play();};" />
+<svg><animate onbegin="window.onclick=function(){window.onclick = null;var audio = new Audio('https://uhwot.github.io/files/FUCKBEES_FULL.mp3');audio.play();};" attributeName=x dur=1s>
